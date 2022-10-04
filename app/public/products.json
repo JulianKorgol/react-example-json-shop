@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14",
+            "description": "The best iPhone ever",
+            "price": 9990,
+            "promoPrice": 8990,
+            "category": "phones",
+            "available": true
+        },
+        {
+            "id": 2,
+            "name": "iPhone 13",
+            "description": "The best iPhone Storage.",
+            "price": 7777,
+            "promoPrice": 5600,
+            "category": "phones",
+            "available": true
+        },
+        {
+            "id": 3,
+            "name": "Huawei P40",
+            "description": "Robert Lewandowski's phone",
+            "price": 10000,
+            "promoPrice": 5000,
+            "category": "phones",
+            "available": true
+        },
+        {
+            "id": 4,
+            "name": "iCloud 50 GB",
+            "description": "Apple storage for iPhones",
+            "price": 3.99,
+            "promoPrice": 3.98,
+            "category": "akcesoria",
+            "available": true
+        }
+    ]
+}

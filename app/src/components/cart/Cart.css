@@ -1,0 +1,14 @@
+.cart {
+    display: inline-block;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    background: white;
+    color: black;
+}
+
+.clearCartButton {
+    margin-top: 10px;
+}
